@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2project>
+    <name>New project</name>
+    <description></description>
+    <version>1.0.0.0</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website>http://</author-website>
+    <app-id>com.mycompany.myapp</app-id>
+    <unique-id>25nsa0006r51o</unique-id>
+    <saved-with-version>27700</saved-with-version>
+    <used-plugins>
+        <plugin author="PlayLive" id="HTML_iFrame" version="1.419999957">HTML | iFrame</plugin>
+        <plugin author="Scirra" id="TiledBg" version="1">Tiled Background</plugin>
+    </used-plugins>
+    <used-behaviors />
+    <used-effects />
+    <configurations>
+        <configuration exporter-descname="HTML5" exporter-id="html5" name="HTML5" />
+    </configurations>
+    <window-size>
+        <width>854</width>
+        <height>480</height>
+    </window-size>
+    <pixel-rounding>0</pixel-rounding>
+    <preview-effects>1</preview-effects>
+    <use-loader-layout>0</use-loader-layout>
+    <configuration-settings>
+        <prop name="Clear background">Yes</prop>
+        <prop name="Downscaling">Medium quality</prop>
+        <prop name="Enable WebGL">On</prop>
+        <prop name="Fullscreen in browser">Letterbox scale</prop>
+        <prop name="Fullscreen scaling">High quality</prop>
+        <prop name="Loader style">Construct 2 splash</prop>
+        <prop name="Orientations">Any</prop>
+        <prop name="Pause on unfocus">No</prop>
+        <prop name="Physics engine">Box2D asm.js</prop>
+        <prop name="Preload sounds">Yes</prop>
+        <prop name="Preview browser">Chrome</prop>
+        <prop name="Sampling">Linear</prop>
+        <prop name="Use high-DPI display">Yes</prop>
+    </configuration-settings>
+    <object-folder>
+        <object-folder name="image">
+            <object-type name="ret" sid="385261365094352">
+                <plugin id="TiledBg" />
+                <texture />
+            </object-type>
+            <object-type name="facebook" sid="613539495581119">
+                <plugin id="TiledBg" />
+                <texture original-source="D:\_Desenvolvimento\_projetos\demos\Social Tycoon\_img\_redes sociais\1439744182_Facebook.png" />
+            </object-type>
+        </object-folder>
+        <object-type name="plugin" sid="506609684893902">
+            <plugin id="HTML_iFrame" />
+        </object-type>
+    </object-folder>
+    <families />
+    <layout-folder>
+        <layout>Layout 1.xml</layout>
+    </layout-folder>
+    <event-folder>
+        <event-sheet>Event sheet 1.xml</event-sheet>
+    </event-folder>
+    <global-instances />
+    <sounds-folder />
+    <music-folder />
+    <files-folder>
+        <file-folder name="Icons">
+            <file name="icon-16.png" />
+            <file name="icon-32.png" />
+            <file name="icon-114.png" />
+            <file name="icon-128.png" />
+            <file name="icon-256.png" />
+            <file name="loading-logo.png" />
+        </file-folder>
+        <file-folder name="pages" />
+        <file-folder name="js" />
+        <file-folder name="css" />
+        <file-folder name="extras" />
+        <file name="turn.js" />
+        <file name="turn.html4.min.js" />
+        <file name="basic.js" />
+        <file name="basic.css" />
+        <file name="jquery.min.1.7.js" />
+        <file name="modernizr.2.5.3.min.js" />
+        <file name="9.jpg" />
+        <file name="7.jpg" />
+        <file name="8.jpg" />
+        <file name="6.jpg" />
+        <file name="5.jpg" />
+        <file name="4.jpg" />
+        <file name="3.jpg" />
+        <file name="12.jpg" />
+        <file name="2.jpg" />
+        <file name="11.jpg" />
+        <file name="10.jpg" />
+        <file name="1.jpg" />
+    </files-folder>
+</c2project>
